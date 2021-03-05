@@ -1,6 +1,6 @@
 {
-  "name": "pdf-lib",
-  "version": "1.16.0",
+  "name": "pdf-lib-draw-svg",
+  "version": "1.16.1",
   "description": "Create and modify PDF files with JavaScript",
   "author": "Andrew Dillon <andrew.dillon.j@gmail.com>",
   "contributors": [
