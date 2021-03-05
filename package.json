@@ -1,7 +1,7 @@
 {
   "name": "pdf-lib-draw-svg",
-  "version": "1.16.1",
-  "description": "Create and modify PDF files with JavaScript",
+  "version": "1.16.3",
+  "description": "Create and modify PDF files with JavaScript- Fork",
   "author": "Andrew Dillon <andrew.dillon.j@gmail.com>",
   "contributors": [
     "jerp (https://github.com/jerp)",
